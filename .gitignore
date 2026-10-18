@@ -1,0 +1,10 @@
+/tbs5530
+*.o
+*.dSYM/
+.DS_Store
+
+# proprietary firmware, see firmware/README.md
+/firmware/*.fw
+
+# recordings
+*.ts
